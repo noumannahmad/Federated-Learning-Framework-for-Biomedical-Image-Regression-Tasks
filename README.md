@@ -24,7 +24,7 @@ Federated-Learning-Framework-for-Biomedical-Image-Regression-Tasks/
 ├── results/            # Logs and model checkpoints
 ├── run_local_fl.sh     # Local FL runner (multi-client simulation)
 ├── requirements.txt    # Python dependencies
-└── README.md           # You are here
+└── README.md          
 ```
 
 ## 🚀 Getting Started
