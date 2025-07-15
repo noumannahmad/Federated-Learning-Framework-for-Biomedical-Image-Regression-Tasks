@@ -58,9 +58,9 @@ python fl_simulation/client.py        # Start FL client
 - Sample performance metrics: MAE, R²
 
 ## 📚 Future Additions
-- Use real medical imaging datasets (.npy, .nii.gz)
+- Use real medical imaging datasets (.npy, .nii.gz, dicom)
 - Add client authentication and secure aggregation
 - Deploy on Kubernetes or GCP with Docker
 
 ## 📄 License
-MIT License © 2025 Mansoor Hayat
+MIT License © 2025 Nouman Ahmad
