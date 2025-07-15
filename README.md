@@ -32,7 +32,7 @@ Federated-Learning-Framework-for-Biomedical-Image-Regression-Tasks/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/https://github.com/noumannahmad/Federated-Learning-Framework-for-Biomedical-Image-Regression-Tasks.git
-cd Federated-CT-FL
+cd Federated-Learning-Framework-for-Biomedical-Image-Regression-Tasks
 ```
 
 ### 2. Install dependencies
