@@ -14,7 +14,7 @@ A complete federated learning system for CT-based body composition prediction. T
 ## 📁 Project Structure
 
 ```
-Federated-CT-FL/
+Federated-Learning-Framework-for-Biomedical-Image-Regression-Tasks/
 ├── data/               # Placeholder for client datasets
 ├── src/                # Model, training, evaluation code
 ├── fl_simulation/      # Federated server/client logic
@@ -31,7 +31,7 @@ Federated-CT-FL/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Federated-CT-FL.git
+git clone https://github.com/https://github.com/noumannahmad/Federated-Learning-Framework-for-Biomedical-Image-Regression-Tasks.git
 cd Federated-CT-FL
 ```
 
